@@ -199,7 +199,7 @@ Atualmente, a ferramenta ainda não está disponível como um Add-on
 
 ## Roadmap
 
-[Funcionalidades](https://www.notion.so/191a5b06d13580968ea8e18296e50c2d?pvs=21)
+[Funcionalidades](https://docs.google.com/spreadsheets/d/1IUGDym3CpFxeB15iT9Gxxz7cTW9L1PhmHO0vpND0kUk/edit?gid=0#gid=0&fvid=1940744154)
 
 ---
 
