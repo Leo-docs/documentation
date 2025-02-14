@@ -64,7 +64,7 @@ const config = {
         title: 'Leo Docs',
         logo: {
           alt: 'Leo Docs Logo',
-          src: 'img/logo.svg',
+          src: 'img/logo.png',
         },
         items: [
           {
