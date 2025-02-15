@@ -10,8 +10,8 @@ import { themes as prismThemes } from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Leo Docs',
-  tagline: 'Leo Docs',
+  title: 'LEO DOCS',
+  tagline: 'LEO DOCS',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -42,6 +42,7 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
+          routeBasePath: '/', // Serve the docs at the site's root
           sidebarPath: './sidebars.js',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
@@ -51,6 +52,7 @@ const config = {
         theme: {
           customCss: './src/css/custom.css',
         },
+        blog: false, // Optional: disable the blog plugin
       }),
     ],
   ],
@@ -61,9 +63,9 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'Leo Docs',
+        title: 'LEO DOCS',
         logo: {
-          alt: 'Leo Docs Logo',
+          alt: 'LEO DOCS Logo',
           src: 'img/logo.png',
         },
         items: [
@@ -111,7 +113,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Leo Docs, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} LEO DOCS, Inc. Built with Docusaurus.`,
       },
       prism: {
         // theme: prismThemes.github,

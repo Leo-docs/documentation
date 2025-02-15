@@ -1,12 +1,13 @@
 ---
+slug: /
 sidebar_position: 1
 ---
 
-# Guia de Uso da Ferramenta de Automação de Documentos e E-mails
+# `LEO DOCS🚀`. Guia de Uso da Ferramenta de Automação de Documentos e E-mails
 
 ## Visão Geral
 
-Bem-vindo à documentação da ferramenta de Automação de Documentos e E-mails! Esta ferramenta automatiza a geração de documentos personalizados e o envio de e-mails usando dados do Google Sheets. É ideal para equipes que precisam criar documentos e enviar e-mails personalizados de forma eficiente.
+Bem-vindo à documentação da ferramenta de Automação de Documentos e E-mails `LEO DOCS`! Esta ferramenta automatiza a geração de documentos personalizados e o envio de e-mails usando dados do Google Sheets. É ideal para equipes que precisam criar documentos e enviar e-mails personalizados de forma eficiente.
 
 ---
 
@@ -18,7 +19,7 @@ Sua opinião é muito importante para melhorarmos o **LeoDocs**!
 - **Tem sugestões?** Queremos ouvir suas ideias!
 - **Gostou da ferramenta?** Deixe um comentário.
 - **Envie seu feedback aqui:** [[**CLIQUE AQUI**]](https://forms.gle/H2D7BnJ7biR7GYkW9)
-- **Quer Melhorar o projeto?** [**Acesse a pagina do GitHub**](https://github.com/Leo-docs/Leo-docs)
+- **Quer Melhorar o projeto?** [**Acesse o GitHub**](https://github.com/Leo-docs/Leo-docs)
 
 ## Funcionalidades Principais
 
